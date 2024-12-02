@@ -9,10 +9,12 @@ Welcome to Aktivmap Documentation
    configuration/index
    advanced/index
 
-Indices and tables
-==================
+Table of contents
+=================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+    :caption: About
+    :maxdepth: 3
+
+    about/index
 
